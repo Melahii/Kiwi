@@ -1,0 +1,31 @@
+/**
+ * @name kiwi
+ * @author Disease#5663
+ * @version 1.0.0
+ * @description Based on Outlook Web.
+ * @source https://github.com/maenDisease/Outlook
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Outlook
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/Outlook/Outlook.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+
+:root {
+  --home-image: url('https://i.pinimg.com/564x/bf/5e/d6/bf5ed67c453be2f678f490bd217a60c2.jpg');
+  --accent-hue: 162;
+  --accent-saturation: 21%;
+  --accent-brightness: 38%;
+  --gradient-toggle: 1;
+  --gradient-hue-shift: 0.91;
+  --gradient-saturation: 2%;
+  --gradient-deg: 180deg;
+  --customFont: Space Mono;
+}
+
+/* Any custom CSS below here */
+
+
